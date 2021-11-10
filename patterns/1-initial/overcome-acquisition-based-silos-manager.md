@@ -28,8 +28,6 @@ Acquisition(s) resulting in multiple cultural perspectives. Acquired company's M
 - Fear of being judged
 - Pandora's box/unknowns tied to opening up code submissions
 
-(PICK UP HERE NEXT TIME)---------------10/25/16
-
 ## Sketch (optional)
 
 ## Solution
